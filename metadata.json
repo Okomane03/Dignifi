@@ -1,0 +1,6 @@
+{
+  "name": "Dignifi - Workplace Dignity & Documentation OS",
+  "description": "Privacy-conscious, employee-centred workspace to document, organise, reflect, and decide on workplace incidents with complete user control and secure HR case management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
